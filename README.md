@@ -30,7 +30,13 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 
 ## 📊 Project Visualizations
 
-*(We'll add your graphs here in the next step.)*
+| Movies vs TV Shows | Content Ratings |
+|--------------------|-----------------|
+| ![](output%201.png) | ![](output%202.png) |
+
+| Top Genres | Content Added Over the Years |
+|------------|------------------------------|
+| ![](output%203.png) | ![](output%204.png) |
 
 ## 📁 Repository Structure
 
